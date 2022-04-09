@@ -7,7 +7,7 @@ function CounterButton(props) {
 
   return (
     <button onClick={handleClick} className="CounterButton">
-      You clicked me {clickAmount} times
+      Ouf You clicked me {clickAmount} times
     </button>
   );
 }
